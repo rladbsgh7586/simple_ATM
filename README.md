@@ -6,7 +6,8 @@ Support four command:
 1. showall: show card list, pin number, account list, balances.  
 2. showcard: show card list.  
 3. showaccount: show account list of selected card.  
-4. quit  
+4. help: show command list  
+5. quit  
   
 You can test program with the data below.  
 <img src="test_data.PNG" title="test data" alt="testdata"></img><br/>
